@@ -1035,7 +1035,7 @@ span.border-text {
 }
 .search-wrap.open .eks:before {
     top: 9px;
-    transition-delay: 0.15s;
+    transition-delay: 0.10s;
 }
 .search-wrap.open .eks:after {
     bottom: 9px;
@@ -1950,9 +1950,9 @@ ul.client-thumb-2 li a img:hover{
     margin: auto;
     max-width: 100%;
     height: auto;
-    transition: opacity 0.15s, -webkit-transform 0.15s;
-    transition: opacity 0.15s, transform 0.15s;
-    -o-transition: opacity 0.15s, -o-transform 0.15s;
+    transition: opacity 0.10s, -webkit-transform 0.10s;
+    transition: opacity 0.10s, transform 0.10s;
+    -o-transition: opacity 0.10s, -o-transform 0.10s;
 }
 .img:hover img {
     -webkit-transform: scale(1.1);
